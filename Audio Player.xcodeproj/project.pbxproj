@@ -15,6 +15,7 @@
 		8460AC5323F2E498005C193A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8460AC5123F2E498005C193A /* LaunchScreen.storyboard */; };
 		8460AC5E23F2E498005C193A /* Audio_PlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8460AC5D23F2E498005C193A /* Audio_PlayerTests.swift */; };
 		8460AC6923F2E498005C193A /* Audio_PlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8460AC6823F2E498005C193A /* Audio_PlayerUITests.swift */; };
+		84A97B7323F2F1E000727ED2 /* fur-elise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84A97B7223F2F1E000727ED2 /* fur-elise.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8460AC6423F2E498005C193A /* Audio PlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Audio PlayerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8460AC6823F2E498005C193A /* Audio_PlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio_PlayerUITests.swift; sourceTree = "<group>"; };
 		8460AC6A23F2E498005C193A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84A97B7223F2F1E000727ED2 /* fur-elise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "fur-elise.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				8460AC4C23F2E496005C193A /* Main.storyboard */,
 				8460AC4F23F2E498005C193A /* Assets.xcassets */,
 				8460AC5123F2E498005C193A /* LaunchScreen.storyboard */,
+				84A97B7223F2F1E000727ED2 /* fur-elise.mp3 */,
 				8460AC5423F2E498005C193A /* Info.plist */,
 			);
 			path = "Audio Player";
@@ -235,6 +238,7 @@
 				8460AC5323F2E498005C193A /* LaunchScreen.storyboard in Resources */,
 				8460AC5023F2E498005C193A /* Assets.xcassets in Resources */,
 				8460AC4E23F2E496005C193A /* Main.storyboard in Resources */,
+				84A97B7323F2F1E000727ED2 /* fur-elise.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
